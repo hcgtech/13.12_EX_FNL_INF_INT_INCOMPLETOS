@@ -1,6 +1,6 @@
-# 13.12_EX_FNL_INF_INT_COMPLETOS
+# 13.12_EX_FNL_INF_INT_INCOMPLETOS
 # EXAMEN FINAL 13-DIC-24 TURNO INTENSIVO
-# REGULAR COMPLETO
+# REGULAR INCOMPLETO
 ## TECNICATURA DE PRECEPTOR
  
 **Para proyecto es necesario tener:**
@@ -116,6 +116,10 @@ A Partir de la base de datos que dejo disponible mas adelante.
 
 
 **Paso 6:**
+**Abre la aplicación gamma.app**
+* Genera una presentación con la información generada en tu informe.
+ 
+**Paso 7:** 
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
@@ -131,9 +135,12 @@ A Partir de la base de datos que dejo disponible mas adelante.
       ### Se adjunta Reporte: Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio.
       [[Informe/Manual Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
-      ### Se adjunta tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
+      ### Se adjunta panilla de calculo con tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
+      [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
+      ### Se adjunta presentaciones sobre tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
       [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
       ```
 
- **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
+ **Paso 8:** Copiar y pegar el link del repositorio Github en la ventana del Examen
